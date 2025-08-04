@@ -1,0 +1,10 @@
+{
+  "name": "Trust USD",
+  "symbol": "tUSDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "TrustUSD est un stablecoin BEP-20 déployé sur Binance Smart Chain.",
+  "explorer": "https://bscscan.com/token/0x2Dbc87198Eec828e7a2e6FEaA059D3EfC81c94C9",
+  "status": "active",
+  "id": "trustusd"
+}

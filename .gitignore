@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Hardhat
+artifacts/
+cache/
+coverage/
+typechain/
+*.tsbuildinfo
+
+# Dotenv / Sécurité
+.env
+.env.local
+.env.*.local
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# VSCODE
+.vscode/
+*.code-workspace
+
+# Logs divers
+logs/
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Flattened files (optionnel si tu veux éviter d’indexer les .sol flattenés)
+*flat.sol

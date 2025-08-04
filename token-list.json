@@ -1,0 +1,22 @@
+{
+  "name": "TrustUSD Token List",
+  "logoURI": "https://raw.githubusercontent.com/p-une/trustusd-tokenlist/main/logo.png",
+  "keywords": ["trustusd", "stablecoin", "bep20", "binance", "usd"],
+  "timestamp": "2025-07-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x2Dbc87198Eec828e7a2e6FEaA059D3EfC81c94C9",
+      "name": "TrustUSD",
+      "symbol": "tUSDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/p-une/trustusd-tokenlist/main/blockchains/smartchain/assets/0x2Dbc87198Eec828e7a2e6FEaA059D3EfC81c94C9/logo.png",
+      "tags": ["stablecoin"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
